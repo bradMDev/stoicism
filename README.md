@@ -1,1 +1,1 @@
-# stoicism
+# stoics
