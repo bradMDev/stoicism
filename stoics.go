@@ -1,4 +1,4 @@
-package stoicisms
+package stoics
 
 func SayAurelius() string {
 	return "The best revenge is to be unlike him who performed the injury."
